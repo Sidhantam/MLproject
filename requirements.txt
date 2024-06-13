@@ -1,4 +1,9 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e .
+# run in cmd terminal    'conda active venv'    and then    'pip install -r requirements.txt'
