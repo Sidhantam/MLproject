@@ -7,3 +7,4 @@ catboost
 xgboost
 # -e .
 # run in cmd terminal    'conda active venv'    and then    'pip install -r requirements.txt'
+# process to upload data into git hub     'git add .'        'git commit -m  "New change"'         'git status'          'git bash -u origin main'
